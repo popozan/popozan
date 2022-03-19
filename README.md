@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @popozan
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Google Data Analytic
+- 🌱 I’m currently learning Google Data Analytics
 - 💞️ I’m looking to collaborate on Anything Data related to improve my skills
 - 📫 How to reach me : Here
 
